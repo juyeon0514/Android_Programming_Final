@@ -49,4 +49,4 @@ Home으로 이동시 일정이 있는 날짜를 두번 터치하여 들어갑니
 ![Screenshot_20240619_232521](https://github.com/juyeon0514/Android_Programming_Final/assets/73096018/d9fffbec-b0eb-45bf-bd5d-77d714640ecd)
 
 4.동영상 링크
-https://youtu.be/ky9ucJEiPI0
+(https://youtu.be/eEP5S6uNAtk)
